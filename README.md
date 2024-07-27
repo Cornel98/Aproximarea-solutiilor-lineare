@@ -93,8 +93,8 @@ Select one of the available numerical methods from the "Choose Method" section.
 ### Calculation Methods
 - `euler_explicit(f, y0, t)`
 - `euler_implicit(f, y0, t)`
-- `runge_kutta_2(f, y0, t)`
 - `runge_kutta_4(f, y0, t)`
+- `runge_kutta_6(f, y0, t)`
 
 ### Data Handling Functions
 - `read_file()`
